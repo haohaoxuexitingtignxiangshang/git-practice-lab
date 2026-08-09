@@ -1,1 +1,3 @@
 Hello Git! This file was created on the feature branch.
+
+VS Code 编辑的这一行 —— 测试 VS Code Git 集成
