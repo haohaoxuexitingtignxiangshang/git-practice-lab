@@ -427,3 +427,9 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# 忽略敏感信息
+secrets.txt
+
+# 忽略日志文件
+*.log
