@@ -1,2 +1,9 @@
-# git-practice-lab
-我的 Git 实操练习仓库
+# Git 实操练习
+
+这是我的第一个 Git 练习仓库。
+
+## 学习目标
+
+- 掌握 Git 基本命令
+- 学会使用 TortoiseGit 图形化工具
+- 理解分支和合并的概念
